@@ -1,8 +1,6 @@
-package main.java.list;
+package main.java.list.operacoesBasicas;
 
 import java.util.Scanner;
-
-import main.java.list.operacoesBasicas.CarrinhoDeCompras;
 
 public class App {
 	public static void main(String[] args) {
